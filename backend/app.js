@@ -27,6 +27,8 @@ app.get('/api/products', async (req, res) => {
   res.json(products);
 });
 
+
+/*
 app.post('/api/products', async (req, res) => {
   try {
     const product = new Product(req.body);
@@ -36,6 +38,7 @@ app.post('/api/products', async (req, res) => {
     res.status(400).json({ error: err.message });
   }
 });
+*/
 
 // Start Server
 app.listen(PORT, () => {

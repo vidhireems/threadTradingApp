@@ -3,10 +3,10 @@ const AboutUs = () => {
       <div style={{ padding: '20px' }}>
         <h1>About Us</h1>
         <p>
-          Established in 1990, <strong>Hitesh Trading Co.</strong> has become a trusted name in the textile industry,
-          known for providing premium quality threads used in a wide range of applications—from garments and upholstery to industrial stitching.
-        </p>
-        <p>
+            Established in 1990, <strong>Hitesh Trading Co.</strong> has become a trusted name in the textile industry,
+            known for providing premium quality threads used in a wide range of applications—from garments and upholstery to industrial stitching.
+            </p>
+            <p>
           With over three decades of experience, we have built a reputation for consistent quality, reliability, and exceptional customer service.
           Our threads are used by top manufacturers and designers, locally and internationally.
         </p>
